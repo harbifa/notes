@@ -1,0 +1,50 @@
+# ============================
+# System Files
+# ============================
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# macOS system files (لو استخدمت جهاز ماك لاحقًا)
+.DS_Store
+
+# ============================
+# Editor Files
+# ============================
+# VS Code settings
+.vscode/
+
+# Obsidian settings (لو استخدمته)
+.obsidian/
+
+# JetBrains IDEs (احتياطًا)
+.idea/
+
+# ============================
+# OneDrive Sync Files
+# ============================
+# This prevents OneDrive conflicts from being pushed
+~$*
+*.lnk
+
+# ============================
+# Temporary / Backup Files
+# ============================
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*~
+
+# ============================
+# Logs
+# ============================
+*.log
+
+# ============================
+# Cache folders
+# ============================
+cache/
+temp/
+tmp/
