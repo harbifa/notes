@@ -430,3 +430,4 @@ If you would like to install another SCM provider, you can search on the **scm p
 * Learn more about [Copilot VS Code](/docs/copilot/overview.md) - Learn about Copilot in VS Code.
 
 * [Source Control API](/api/extension-guides/scm-provider.md) - If you want to integrate another Source Control provider into VS Code, see our Source Control API.
+
